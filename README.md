@@ -14,5 +14,12 @@ No Site oficial do Parrot Security
 
 Ela vem especificando no main do site  Documentação, comunidade , como funciona ,Sobre nos a equipe , suas ferramentas , seus blogs, e dowloads.
 
+<img width="1545" height="657" alt="image" src="https://github.com/user-attachments/assets/be578422-ed1e-4b58-96c3-c9f4dddf41eb" />
+
+Sua versões Propria 
+
+
+
+
 
 
