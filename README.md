@@ -4,3 +4,8 @@
 
 
 <img width="1650" height="1019" alt="image" src="https://github.com/user-attachments/assets/04dc0b44-87d2-4fb7-97c2-4c062db78f34" />
+
+Site Oficial do Parrot 
+
+<img width="735" height="585" alt="image" src="https://github.com/user-attachments/assets/3b31eb47-63a3-411d-a082-068f9174d246" />
+
