@@ -47,6 +47,8 @@ barra de configuração
 <img width="1907" height="922" alt="image" src="https://github.com/user-attachments/assets/118ef6ec-dd21-4242-9440-830c4551069e" />
 
 
+<img width="1027" height="565" alt="image" src="https://github.com/user-attachments/assets/d5215d54-be25-4ad2-9e0a-a4719e3ce9a8" />
+
 
 
 
