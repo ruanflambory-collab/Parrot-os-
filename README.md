@@ -48,6 +48,14 @@ barra de configuração
 
 
 <img width="1027" height="565" alt="image" src="https://github.com/user-attachments/assets/d5215d54-be25-4ad2-9e0a-a4719e3ce9a8" />
+No Parrot OS, você pode usar:
+
+top ou htop → verificar processos consumindo muita CPU e memória.
+ps → listar e analisar processos.
+free -h → verificar o uso da RAM.
+df -h → verificar o espaço do armazenamento.
+du -sh → descobrir quais pastas estão ocupando mais espaço.
+systemctl → verificar quais serviços estão ativos.
 
 
 
