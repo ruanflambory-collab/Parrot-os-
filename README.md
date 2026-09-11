@@ -15,6 +15,23 @@ No Site oficial do Parrot Security
 Ela vem especificando no main do site  Documentação, comunidade , como funciona ,Sobre nos a equipe , suas ferramentas , seus blogs, e dowloads.
 
 <img width="1545" height="657" alt="image" src="https://github.com/user-attachments/assets/be578422-ed1e-4b58-96c3-c9f4dddf41eb" />
+<img width="1757" height="857" alt="image" src="https://github.com/user-attachments/assets/79c949f0-19ea-4dcb-9775-39dce5497a9b" />
+Essa é de segurnça
+
+<img width="1726" height="802" alt="image" src="https://github.com/user-attachments/assets/bee70f5b-a7db-4c29-8cf2-348c1aee9e9c" />
+Essa versão home
+
+<img width="1806" height="722" alt="image" src="https://github.com/user-attachments/assets/5efa7f68-59fa-487d-9ee7-fbda5c6b063e" />
+Versão para teste laboratorias 
+<img width="1647" height="736" alt="image" src="https://github.com/user-attachments/assets/0fe3e592-a103-4e3d-bd95-e3856871646a" />
+Versão feita pela comunidade
+
+<img width="1726" height="791" alt="image" src="https://github.com/user-attachments/assets/ef1535bf-86e6-4169-a14e-c842f4854c66" />
+
+
+
+
+
 
 Sua versões Propria 
 
