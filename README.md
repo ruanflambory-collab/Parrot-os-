@@ -28,6 +28,9 @@ Versão feita pela comunidade
 
 <img width="1726" height="791" alt="image" src="https://github.com/user-attachments/assets/ef1535bf-86e6-4169-a14e-c842f4854c66" />
 
+<img width="1815" height="791" alt="image" src="https://github.com/user-attachments/assets/129f5db1-6c85-4c06-a665-dc4fe6880e6b" />
+
+
 
 
 
