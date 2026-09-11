@@ -30,6 +30,7 @@ Versão feita pela comunidade
 
 <img width="1815" height="791" alt="image" src="https://github.com/user-attachments/assets/129f5db1-6c85-4c06-a665-dc4fe6880e6b" />
 
+<img width="1127" height="842" alt="image" src="https://github.com/user-attachments/assets/cc4ce038-c48c-4eaf-b96c-1c1142f6e08e" />
 
 
 
@@ -41,7 +42,8 @@ Sua versões Propria
 <img width="1902" height="1030" alt="image" src="https://github.com/user-attachments/assets/44e96e63-a4bb-42f5-902f-31f8a96e19c4" />
 barra de configuração
 
-s
+<img width="1907" height="922" alt="image" src="https://github.com/user-attachments/assets/118ef6ec-dd21-4242-9440-830c4551069e" />
+
 
 
 
