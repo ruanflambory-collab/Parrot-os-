@@ -24,6 +24,8 @@ Essa versão home
 <img width="1806" height="722" alt="image" src="https://github.com/user-attachments/assets/5efa7f68-59fa-487d-9ee7-fbda5c6b063e" />
 Versão para teste laboratorias 
 <img width="1647" height="736" alt="image" src="https://github.com/user-attachments/assets/0fe3e592-a103-4e3d-bd95-e3856871646a" />
+<img width="1746" height="572" alt="image" src="https://github.com/user-attachments/assets/90b7d34e-26f8-4561-a676-a5d63cfb891c" />
+
 Versão feita pela comunidade
 
 <img width="1726" height="791" alt="image" src="https://github.com/user-attachments/assets/ef1535bf-86e6-4169-a14e-c842f4854c66" />
