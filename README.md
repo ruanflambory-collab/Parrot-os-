@@ -57,6 +57,11 @@ df -h → verificar o espaço do armazenamento.
 du -sh → descobrir quais pastas estão ocupando mais espaço.
 systemctl → verificar quais serviços estão ativos.
 
+<img width="1531" height="1027" alt="image" src="https://github.com/user-attachments/assets/689aa1f3-8a7a-46c4-aa5f-6571443977d5" />
+<img width="991" height="562" alt="image" src="https://github.com/user-attachments/assets/f4fda0dd-a681-429c-bab1-5425aa37db59" />
+
+
+
 
 
 
