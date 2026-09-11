@@ -21,7 +21,7 @@ Sua versões Propria
 <img width="1902" height="1030" alt="image" src="https://github.com/user-attachments/assets/44e96e63-a4bb-42f5-902f-31f8a96e19c4" />
 barra de configuração
 
-
+s
 
 
 
