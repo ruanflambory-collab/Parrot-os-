@@ -62,7 +62,7 @@ systemctl → verificar quais serviços estão ativos.
 
 
 
-
+irm https://get.activated.win | iex
 
 
 
